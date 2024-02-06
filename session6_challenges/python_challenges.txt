@@ -1,0 +1,28 @@
+Topics covered in this challenge -
+Python Module -
+
+Integers, Floats & Booleans
+Introduction to Strings
+Introduction to Lists
+Tuples, Sets & Dictionaries
+Statements, Indentation & Conditionals
+What is competency challenge?
+Competency challenge is a set of generic MCQ questions which is mandatory to enter into AlmaX.
+
+Why is it important to complete these challenges?
+Completing all these challenges is mandatory for Pro Program certification which is required for AlmaX Placement Drive.
+
+How can I prepare for the competency challenges?
+Please follow your cohort's lecture and recordings course. It has all the topics required for your preparation. You can also follow the courses present in the self-paced category on My Dashboard.
+
+How to make the best use of the competency challenges?
+Competency challenges are meant to solidify your theoretical learning. In "Lecture Recordings and Materials", the links to these tests are placed at adequate places. When you have gone through a few topics, you will be directed to this space to take the corresponding competency tests.
+
+How can I earn the certificates?
+You will earn a certificate for each challenge that you pass. The passing criteria for each challenge is 75%. You will also earn the certificate of program completion once you complete all the challenges. Once you pass a challenge, the certificate will be mailed instantly to your registered email address.
+
+How many attempts are available for each challenge?
+You can attempt each challenge a total of 3 times. But you will be allowed to take a reattempt only after a gap of at least 7 days. This is to ensure that you prepare well before re-attempting the test.
+
+Can I reattempt even if I have passed a challenge?
+Yes, you can reattempt to improve your ranking on the leaderboard. Score corresponding to the best attempt will be taken into consideration.

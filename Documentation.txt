@@ -1,0 +1,20 @@
+## This is the python basic to advance folders 2 
+##In thsi I am highlighting the topics which are not cover and are mentioned below
+
+1) logging and debuging is not present
+
+2) file handling is not present 
+
+3) inheritance is not present , as compare to folder 1 
+
+4) assigment after all modules
+
+5) problem statments are present
+
+6) challenges are also covered after modules
+
+else averything is covered, all the neccesary infomation are given by them they have also given the information about google collab notebook
+
+
+
+

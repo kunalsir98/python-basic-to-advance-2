@@ -1,0 +1,126 @@
+
+Open In Colab
+Dream Premier League (DPL)
+A match of DPL is going on. Team Aravali has a made score of 195 for 7 in 20 overs and the opponent Team Shivalik is doing some analytics to find out what they need to do to win. You are the Data Scientist of the Team Shivalik and you have been asked to help them.
+Problem 1
+Team Shivalik has stored the runs made by Team Aravali players in the following dictionary.
+
+aravali ={ "Dhoni":25, "Virat":31, "Pollard":11, "Rohit": 0, "Maxwell":12, "Sachin":59, "Sehwag":12 }
+     
+Get the list of all players in Team Aravali
+
+# Get the list of players in Team Aravali
+
+     
+Problem 2
+By mistake, the runs made by Rohit was recorded as 0. Your next task is to figure out how many runs were made by Rohit and update the dictionary
+
+# We know the total runs
+
+
+
+
+
+
+     
+
+# Print runs scored by Rohit
+Rohit_runs
+     
+
+# Update the dictionary with correct value of runs
+     
+Problem 4
+Your next task is to find out who scored the second highest runs in Team Aravali
+
+# Your code below
+
+
+
+
+
+
+     
+Problem 4
+Just out of curiosity, you want to find out the unique runs made by Team Aravali players.
+
+# Your code below
+run_set = 
+     
+
+# Print the unique runs
+run_set
+     
+Problem 5
+Team Shivalik has 6 fixed players and 5 slots for players who are playing good currently. Create two collections using appropriate data structure to write this 6 fixed and 5 mutable players. You can choose any player you want.
+Available Players in the squad :
+['Vijay', 'Lasith', 'Dravid', 'Smith', 'Ambati', 'Hardik', 'Sushant', 'Mandeep', 'Harbhajan', 'Yuvraj', 'Jadeja','Rajeev','Amrit']
+
+
+# Your code below
+fixed = 
+mutable =
+     
+
+# Print them on same line using comma to seperate them
+
+     
+Problem 6
+Try changing fixed player and mutable player
+
+
+# Change fixed player
+
+     
+
+# Change mutable player
+
+     
+Problem 7
+Find out the runrate required for Team Shivalik to win (for 20 overs)
+Hint: Runrate is runs required per over to win the match
+
+# Your code here
+runrate = 
+     
+
+# Print the run rate
+
+     
+Problem 8
+You have just received a secret message form your informant stating that some players of the other team are into match fixing. You have to decode a message and inform authorities about it.
+You received a string "skdlfjnvuerhw qefnnaosfu qrhviudhfv wuirhv adknlkxjcier vafuvhkajn iuvhsf vasuif KJSHFKJ aeuihvasf akjfhiufe" and index of "i" are going to be "no balls".
+Find the first and last no ball from the string.
+
+#First no ball
+message = "skdlfjnvuerhw qefnnaosfu qrhviudhfv wuirhv adknlkxjcier vafuvhkajn iuvhsf vasuif KJSHFKJ aeuihvasf akjfhiufe"
+
+
+
+# Last no ball
+     
+
+# Print the first and last ball numbers
+
+
+     
+Problem 9
+You have given the information about fixing to the authorities and they are going to verify it during the match. But still you have to work on your strategy.
+It is in your hands to automate the decision on who goes on 4th position for batting depending on following criteria:
+if runs made by Team Shivalik is less than 50, Smith will play
+if runs are between 51 to 100 then Sir Jadeja will go
+if runs are above 100 then Hardik will play
+
+# Your code below
+B_runs = int(input())
+
+
+
+
+
+
+     
+Hurray! Turns out you won the match and the guilty players are punished as well. You should be proud of yourself!
+
+
+     
